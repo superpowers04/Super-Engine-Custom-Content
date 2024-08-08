@@ -2,7 +2,14 @@
 	{
 		"id":"vanilla-pico",
 		"name":"pico",
-		"url":"",
+		"url":"https://github.com/superpowers04/Super-Engine-Custom-Content/raw/meow/Pico.zip",
 		"description":"Pico from VSlice ported to Super Engine"
+	},
+
+	{
+		"id":"erect-dadfbattle-higheffort",
+		"name":"Erect Dadbattle",
+		"url":"https://github.com/superpowers04/Super-Engine-Custom-Content/raw/meow/ErectDadBattle.zip",
+		"description":"High effort erect dadbattle ported to Super Engine"
 	}
 ]
