@@ -1,6 +1,7 @@
 [
 	{
 		"id":"vanilla-pico",
+		"author":"Funkin' Team, Ported by Superpowers04",
 		"name":"pico",
 		"url":"https://raw.githubusercontent.com/superpowers04/Super-Engine-Custom-Content/meow/Pico.zip",
 		"description":"Pico from VSlice ported to Super Engine",
@@ -10,6 +11,7 @@
 
 	{
 		"id":"erect-dadfbattle-higheffort",
+		"author":"Uniimations, Ported by Superpowers04",
 		"name":"Erect Dadbattle",
 		"url":"https://raw.githubusercontent.com/superpowers04/Super-Engine-Custom-Content/meow/ErectDadbattle.zip",
 		"description":"High effort Erect Dadbattle ported to Super Engine",
